@@ -1,2 +1,23 @@
-# CodeAlpha_Portfolio
-A modern and responsive personal portfolio website built using HTML, CSS, and JavaScript. Features a professional UI, smooth scrolling navigation, animated sections, skills showcase, project gallery, contact form, and mobile-friendly design.
+# Personal Portfolio Website
+
+A modern and responsive portfolio website developed using HTML, CSS and JavaScript.
+
+## Features
+
+- Responsive Design
+- About Section
+- Skills Section
+- Projects Showcase
+- Contact Information
+- Smooth Scrolling
+- Hover Animations
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Author
+
+Dishant Yadav
